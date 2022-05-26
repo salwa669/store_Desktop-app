@@ -1,0 +1,149 @@
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.csproj.SuggestedBindingRedirects.cache
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.admin.adduser.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.admin.All_bill.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.admin.Expired_Date.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.Loading.Home_Page.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.Loading.Loading_Page.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.log.Logg.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.Order.AddCustomer.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.Bill.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.catigory.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.Form1.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.Properties.Resources.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.csproj.GenerateResource.cache
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.csproj.CoreCompileInputs.cache
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.csproj.AssemblyReference.cache
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\bin\Debug\proWin_Iti.exe.config
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\bin\Debug\proWin_Iti.exe
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\bin\Debug\proWin_Iti.pdb
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\bin\Debug\FontAwesome.Sharp.dll
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.csproj.CopyComplete
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.exe
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.pdb
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.Employee.Add_Employee.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.Employee.Search_Employee.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.Customer.Add_customer.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.Customer.Search_Customer.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.Store.Add_Beanch.resources
+D:\iti\Iti 9 Month\C#\Project C#\proWin_Iti\obj\Debug\proWin_Iti.Order.BillSallfromResources.resources
+D:\proWin_Iti\bin\Debug\proWin_Iti.exe.config
+D:\proWin_Iti\bin\Debug\proWin_Iti.exe
+D:\proWin_Iti\bin\Debug\proWin_Iti.pdb
+D:\proWin_Iti\bin\Debug\FontAwesome.Sharp.dll
+D:\proWin_Iti\obj\Debug\proWin_Iti.csproj.AssemblyReference.cache
+D:\proWin_Iti\obj\Debug\proWin_Iti.admin.adduser.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.admin.All_bill.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.admin.Expired_Date.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.Customer.Add_customer.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.Customer.Search_Customer.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.Employee.Add_Employee.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.Employee.Search_Employee.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.Loading.Home_Page.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.Loading.Loading_Page.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.log.Logg.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.Order.AddCustomer.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.Bill.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.catigory.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.Form1.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.Order.BillSallfromResources.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.Properties.Resources.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.csproj.GenerateResource.cache
+D:\proWin_Iti\obj\Debug\proWin_Iti.csproj.CoreCompileInputs.cache
+D:\proWin_Iti\obj\Debug\proWin_Iti.csproj.CopyComplete
+D:\proWin_Iti\obj\Debug\proWin_Iti.exe
+D:\proWin_Iti\obj\Debug\proWin_Iti.pdb
+D:\proWin_Iti\obj\Debug\proWin_Iti.Form3.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.Form4.resources
+D:\proWin_Iti\obj\Debug\proWin_Iti.sellers.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\bin\Debug\proWin_Iti.exe.config
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\bin\Debug\proWin_Iti.exe
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\bin\Debug\proWin_Iti.pdb
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\bin\Debug\FontAwesome.Sharp.dll
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.csproj.AssemblyReference.cache
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.csproj.SuggestedBindingRedirects.cache
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.admin.All_bill.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.catigory.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Customer.Add_customer.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Customer.Search_Customer.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Employee.Add_Employee.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Employee.Search_Employee.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Loading.Home_Page.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Loading.Loading_Page.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.log.Logg.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Order.AddCustomer.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Bill.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Order.BillSallfromResources.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Form1.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Form3.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Properties.Resources.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.Form4.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.sellers.resources
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.csproj.GenerateResource.cache
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.csproj.CoreCompileInputs.cache
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.csproj.CopyComplete
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.exe
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.pdb
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\obj\Debug\proWin_Iti.admin.Setting_employee.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.admin.Setting_employee.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.admin.All_bill.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.catigory.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Customer.Add_customer.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Customer.Search_Customer.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Employee.Add_Employee.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Employee.Search_Employee.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Loading.Home_Page.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Loading.Loading_Page.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.log.Logg.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Order.AddCustomer.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Bill.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Order.BillSallfromResources.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Form1.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Form3.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Properties.Resources.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.Form4.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.sellers.resources
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.exe
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.pdb
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\bin\Debug\proWin_Iti.exe.config
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\bin\Debug\proWin_Iti.exe
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\bin\Debug\proWin_Iti.pdb
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ACER\Desktop\aaaaaaa\proWin_Iti\obj\Debug\proWin_Iti.csproj.CopyComplete
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\bin\Debug\BouncyCastle.Crypto.dll
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\bin\Debug\itextsharp.dll
+D:\iti\Iti 9 Month\C#\C# project\proWin_Iti\bin\Debug\itextsharp.xml
+D:\proWin_Iti3\proWin_Iti\bin\Debug\proWin_Iti.exe.config
+D:\proWin_Iti3\proWin_Iti\bin\Debug\proWin_Iti.exe
+D:\proWin_Iti3\proWin_Iti\bin\Debug\proWin_Iti.pdb
+D:\proWin_Iti3\proWin_Iti\bin\Debug\BouncyCastle.Crypto.dll
+D:\proWin_Iti3\proWin_Iti\bin\Debug\FontAwesome.Sharp.dll
+D:\proWin_Iti3\proWin_Iti\bin\Debug\itextsharp.dll
+D:\proWin_Iti3\proWin_Iti\bin\Debug\itextsharp.xml
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.csproj.AssemblyReference.cache
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.csproj.SuggestedBindingRedirects.cache
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.admin.Setting_employee.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.admin.All_bill.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.catigory.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Customer.Add_customer.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Customer.Search_Customer.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Employee.Add_Employee.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Employee.Search_Employee.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Loading.Home_Page.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Loading.Loading_Page.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.log.Logg.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Order.AddCustomer.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Bill.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Order.BillSallfromResources.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Form1.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Form3.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Properties.Resources.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.Form4.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.sellers.resources
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.csproj.GenerateResource.cache
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.csproj.CoreCompileInputs.cache
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.csproj.CopyComplete
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.exe
+D:\proWin_Iti3\proWin_Iti\obj\Debug\proWin_Iti.pdb

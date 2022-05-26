@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CABC8507-92F4-411F-8531-68FF433C9EC0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>proWin_Iti</RootNamespace>
+    <AssemblyName>proWin_Iti</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.4.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>packages\FontAwesome.Sharp.5.15.4\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin\Setting_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin\Setting_employee.Designer.cs">
+      <DependentUpon>Setting_employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin\All_bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin\All_bill.Designer.cs">
+      <DependentUpon>All_bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="category\catigory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="category\catigory.designer.cs">
+      <DependentUpon>catigory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\Add_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\Add_customer.Designer.cs">
+      <DependentUpon>Add_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\Search_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\Search_Customer.Designer.cs">
+      <DependentUpon>Search_Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee\Add_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee\Add_Employee.Designer.cs">
+      <DependentUpon>Add_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee\Search_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee\Search_Employee.Designer.cs">
+      <DependentUpon>Search_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading\Home Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading\Home Page.Designer.cs">
+      <DependentUpon>Home Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading\Loading_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading\Loading_Page.Designer.cs">
+      <DependentUpon>Loading_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="log\Logg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="log\Logg.Designer.cs">
+      <DependentUpon>Logg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin\Admin.cs" />
+    <Compile Include="Model\BiilBuyPro.cs" />
+    <Compile Include="Order\BillClass.cs" />
+    <Compile Include="category\Category.cs" />
+    <Compile Include="product\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product\Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="product\Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product\Form3.designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="product\Product.cs" />
+    <Compile Include="Store\store.cs" />
+    <Compile Include="Model\Users.cs" />
+    <Compile Include="Order\AddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\AddCustomer.Designer.cs">
+      <DependentUpon>AddCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\Bill.Designer.cs">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\BillSallfromResources.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\BillSallfromResources.Designer.cs">
+      <DependentUpon>BillSallfromResources.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Store\Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Store\Form4.designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suppliers\seller.cs" />
+    <Compile Include="Suppliers\sellers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suppliers\sellers.designer.cs">
+      <DependentUpon>sellers.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admin\Setting_employee.resx">
+      <DependentUpon>Setting_employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin\All_bill.resx">
+      <DependentUpon>All_bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="category\catigory.resx">
+      <DependentUpon>catigory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\Add_customer.resx">
+      <DependentUpon>Add_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\Search_Customer.resx">
+      <DependentUpon>Search_Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee\Add_Employee.resx">
+      <DependentUpon>Add_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee\Search_Employee.resx">
+      <DependentUpon>Search_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading\Home Page.resx">
+      <DependentUpon>Home Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading\Loading_Page.resx">
+      <DependentUpon>Loading_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="log\Logg.resx">
+      <DependentUpon>Logg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\AddCustomer.resx">
+      <DependentUpon>AddCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\Bill.resx">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\BillSallfromResources.resx">
+      <DependentUpon>BillSallfromResources.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product\Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Store\Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suppliers\sellers.resx">
+      <DependentUpon>sellers.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HOME.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resourse\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rain_L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puddle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_sercices.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-oleg-magni-1005638.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_sercices1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\downloadd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-oleg-magni-10056381.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imageProfile - Copy.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
